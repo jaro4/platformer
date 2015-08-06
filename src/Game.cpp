@@ -28,7 +28,6 @@ void Game::processInput() {
         if(event.type == sf::Event::Closed)
             this->window.close();
 
-        if(event.type == sf::Input::isKeyDown())
 
         /*if(event.type == sf::Event::KeyPressed) {
             switch(event.key.code) {
@@ -38,8 +37,8 @@ void Game::processInput() {
                 case sf::Keyboard::D: std::cout << "D" << std::endl; this->player_spr.move(5, 0); break;
                 case sf::Keyboard::Space: std::cout << "Space" << std::endl; break;
                 default: break;
-            }*/
-        }
+            }
+        }*/
     }
 }
 

@@ -387,3 +387,9 @@
 	"Game.hpp"
 	<iostream>
 
+1438776537 source:c:\users\joel\documents\projects\platformer\main.cpp
+	"./src/Game.hpp"
+
+1438774079 c:\users\joel\documents\projects\platformer\src\game.hpp
+	<SFML/Graphics.hpp>
+
