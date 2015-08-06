@@ -28,7 +28,6 @@ void Game::processInput() {
         if(event.type == sf::Event::Closed)
             this->window.close();
 
-
         /*if(event.type == sf::Event::KeyPressed) {
             switch(event.key.code) {
                 //case sf::Keyboard::W: std::cout << "W" << std::endl; this->player_spr.move(5, 5); break;
